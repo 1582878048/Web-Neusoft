@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+	</head>
+	<body>
+		<header>
+			<h1>这是一个网页标题！</h1>
+		</header>
+		<ul>
+			<nav>
+				<li><a href="https://www.baidu.com/?tn=15007414_8_dg">啥都知道</a></li>
+				<li><a href="https://music.163.com/">放松</a></li>
+			</nav>
+		</ul>
+		<article>
+		<header>
+		<hgroup>
+			<h1>主标题这是一个（喜欢听音乐吗</h1>
+			<h2>That love is gone</h2>
+		</hgroup>
+		</header>
+		<p>文章正文（喜欢听什么音乐？</p>
+		<section>
+			<aside>
+				<h1>评论标题（推荐一首吧</h1>
+				<p>评论正文（快说快说</p>
+			</aside>
+			<footer>
+					版权所有——小牛
+			</footer>
+		</section>
+		</article>
+	</body>
+</html>
